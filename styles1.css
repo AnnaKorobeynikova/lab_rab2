@@ -1,0 +1,14 @@
+body {
+    background-color: #f58ea6;
+}
+
+table {
+    border:  1px solid white;
+    width: 400px;
+}
+
+th,td {
+    border: 1px solid white;
+    padding: 20px 20px;
+}
+
